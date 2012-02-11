@@ -1,0 +1,44 @@
+/* TODO: put your application-specific CSS here */
+.cssSceneFadeBottom {
+	position : fixed;
+	bottom : 0px;
+	z-index : 50000;
+	height : 54px;
+	width : 100%;
+	background : url(../images/my-scene-fade-bottom.png) bottom center repeat-x !important;
+	-webkit-palm-mouse-target : ignore;
+}
+
+.message {
+	font-size: 50%;
+}
+
+.bakerloo					{color: #FFF;  		background: #AE6118;}
+.central					{color: #FFF;  		background: #E41F1F;}
+.circle						{color: #113B92;  	background: #F8D42D;}
+.district					{color: #FFF; 		background: #00A575;}
+.eastlondon					{color: #113B92;  	background: #F2AD41;}
+.hammersmithcity			{color: #113B92;  	background: #E899A8;}
+.jubilee					{color: #FFF;  		background: #8F989E;}
+.metropolitan				{color: #FFF;  		background: #893267;}
+.northern					{color: #FFF;  		background: #000000;}
+.piccadilly					{color: #FFF;  		background: #0450A1;}
+.victoria					{color: #FFF;  		background: #009FE0;}
+.waterloocity				{color: #113B92;  	background: #70C3CE;}
+.docklands					{color: #FFF;  		background: #00BBB4;}
+.overground					{color: #FFF;  		background: #F86C00;}
+
+a.bakerloo:hover			{color: #FFF;  		background: #AE6118; text-decoration: underline}
+a.central:hover				{color: #FFF;  		background: #E41F1F; text-decoration: underline}
+a.circle:hover				{color: #113B92;  	background: #F8D42D; text-decoration: underline}
+a.district:hover			{color: #FFF; 		background: #00A575; text-decoration: underline}
+a.eastlondon:hover			{color: #113B92;  	background: #F2AD41; text-decoration: underline}
+a.hammersmithcity:hover		{color: #113B92;  	background: #E899A8; text-decoration: underline}
+a.jubilee:hover				{color: #FFF;  		background: #8F989E; text-decoration: underline}
+a.metropolitan:hover		{color: #FFF;  		background: #893267; text-decoration: underline}
+a.northern:hover			{color: #FFF;  		background: #000000; text-decoration: underline}
+a.piccadilly:hover			{color: #FFF;  		background: #0450A1; text-decoration: underline}
+a.victoria:hover			{color: #FFF;  		background: #009FE0; text-decoration: underline}
+a.waterloocity:hover		{color: #113B92;  	background: #70C3CE; text-decoration: underline}
+a.docklands:hover			{color: #FFF;  		background: #00BBB4; text-decoration: underline}
+a.overground:hover			{color: #FFF;  		background: #F86C00; text-decoration: underline}

@@ -1,0 +1,10 @@
+{
+	"id": "com.andrewsavory.tubestatus",
+	"version": "1.0.0",
+	"vendor": "Andrew Savory",
+	"type": "web",
+	"main": "index.html",
+	"title": "Tube Status",
+	"icon": "icon.png",
+	"theme": "light"
+}
